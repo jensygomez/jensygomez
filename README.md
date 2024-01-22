@@ -27,7 +27,10 @@
   </a>
  </div>
 
-<h2 align="center">⚒️ Languages - Frameworks - Tools - Plattforms ⚒️</h2>
+
+
+ <!-- My skills -->
+<h2 align="center">⚒️ Languages - Frameworks - Tools - Platforms ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,bash,powershell" />
