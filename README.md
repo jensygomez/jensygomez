@@ -33,11 +33,11 @@
 <h2 align="center">⚒️ Languages - Frameworks - Tools - Platforms ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,bash,powershell" />
+    <img src="https://skillicons.dev/icons?i=python,linux,mysql,bash,powershell" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=mysql" /><br>
+    <!--<img src="https://skillicons.dev/icons?i=mysql" /><br>  -->
     <br/>
-    <img src="https://skillicons.dev/icons?i=linux," /><br>
+    <!-- <img src="https://skillicons.dev/icons?i=linux," /><br> -->
 </div>
 
 
