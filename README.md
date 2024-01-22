@@ -48,3 +48,14 @@
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=jensygomez&show_icons=true&theme=dracula&count_private=true)
 </div>
 
+
+
+<div style="display: inline_block"><br>
+
+  <img align="center" alt="Rafa-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Rafa-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+  
+</div>
+          
+          
