@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jensy+Gomez;+From+Curitiba+Brazil+!+!+!;" />
 </h1>
 
-![](https://drive.google.com/file/d/1o_O5dA9Bs9Ib-3nYMKErY93Hh7NDobHm/view?usp=drive_link)
+https://github.com/jensygomez/jensygomez/blob/main/Beyond%20the%20code..png?raw=true
 
 <div align="center"> 
   <a href="mailto:contact@jensygomez.us">
