@@ -30,14 +30,13 @@
 
 
  <!-- My skills -->
-<h2 align="center">⚒️ Languages - Frameworks - Tools - Platforms ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,linux,mysql,bash,powershell" />
-    <br/>
-    <!--<img src="https://skillicons.dev/icons?i=mysql" /><br>  -->
-    <br/>
-    <!-- <img src="https://skillicons.dev/icons?i=linux," /><br> -->
+
+<div style="text-align: center;">
+
+  <img align="center" alt="Rafa-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Rafa-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+  
 </div>
 
 
@@ -50,12 +49,6 @@
 
 
 
-<div style="display: inline_block"><br>
 
-  <img align="center" alt="Rafa-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Rafa-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
-  
-</div>
           
           
