@@ -1,9 +1,14 @@
 <!-- Number of Visitors to my GitHub -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jensygomez.jensygomez" />
 
+
+
+<!-- Welcome to my Readme.md -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Jensy+Gomez;+From+Curitiba+Brazil+!+!+!;" />
 </h1>
+
+
 
 <!-- Main and Centralized Banner -->
 <p align="center">
@@ -11,6 +16,8 @@
 </p>
 
 
+
+<!-- My social networks -->
 <div align="center"> 
   <a href="mailto:contact@jensygomez.us">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
