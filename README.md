@@ -6,6 +6,8 @@
 
 (![Beyond the code..png](Beyond_the_code.png))
 
+https://badgen.net/github/watchers/micromatch/micromatch
+
 <div align="center"> 
   <a href="mailto:contact@jensygomez.us">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
