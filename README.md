@@ -86,23 +86,22 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Bits of History, Eternal memories that I used</h3>
+<h3 align="center">Google IT Support Professional Certificate</h3>
 <div align="center">
 <p align="center">
   <img src="Google_IT_Support.jpg" alt="Beyond the code" />
 </p>
-<p>Over the past two decades, I have been a witness and active user of a wide range of technologies that have transformed my personal and professional life</p>
-</div>
-                                                                                      
+<p>It has been a pleasure to have completed this spectacular specialization as a Support Analyst in the IT field</p>
 
+                                                                              
 
 <td width="50%">
-<h3 align="center">Bits of History, Eternal memories that I used</h3>
+<h3 align="center">Information Technology Management</h3>
 <div align="center">
 <p align="center">
-  <img src="Bits_of_History.png" alt="Beyond the code" />
+  <img src="Faculdade_FAM.png" alt="Beyond the code" />
 </p>
-<p>Over the past two decades, I have been a witness and active user of a wide range of technologies that have transformed my personal and professional life</p>
+<p>In this year 2024, I am starting my fourth semester in the field of Technology.</p>
 </div>                                                           
 </table>                                                                                 
 </div>
