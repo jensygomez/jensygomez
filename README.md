@@ -27,16 +27,34 @@
   </a>
  </div>
 
-
-<!-- Development tool (IDE)-->
+ <!-- My skills -->
 <br>
-<h1>Tools I use in my workplace.</h1>
+<h1>Tools I use in my workplace</h1>
 <p align="center">
 
   <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/Centreon.jpg">
   <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/PowerShell.png">
   <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/UltraVNC.png">
   <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/PuTTY.svg.png">
+  
+
+  
+</p>
+<br>
+
+
+
+
+
+
+
+
+<!-- Development tool (IDE)-->
+<br>
+<h1>Tools I use in my workplace.</h1>
+<p align="center">
+
+
   <img align="center" alt="Rafa-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Rafa-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
