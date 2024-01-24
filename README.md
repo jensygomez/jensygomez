@@ -85,7 +85,7 @@ _______________________________________________________________
 <h3 align="center">Google IT Support Professional Certificate</h3>
 <div align="center">
 <p align="center">
-  <img src="Google_IT_Support.jpg" alt="Beyond the code" />
+  <img src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/Google_IT_Support.jpg" />
 </p>
 <p>It has been a pleasure to have completed this spectacular specialization as a Support Analyst in the IT field</p>
 
@@ -95,7 +95,7 @@ _______________________________________________________________
 <h3 align="center">Information Technology Management</h3>
 <div align="center">
 <p align="center">
-  <img src="Faculdade_FAM.png" alt="Beyond the code" />
+  <img src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/Faculdade_FAM.png" />
 </p>
 <p>In this year 2024, I am starting my fourth semester in the field of Technology.</p>
 </div>                                                           
