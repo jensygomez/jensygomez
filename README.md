@@ -10,7 +10,7 @@
   
   <!-- Main and Centralized Banner -->
 <p align="center">
-  <img src="Bits of History.pngg" alt="Beyond the code" />
+  <img src="Bits_of_History.png" alt="Beyond the code" />
 </p>
 
   
