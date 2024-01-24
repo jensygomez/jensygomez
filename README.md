@@ -1,49 +1,3 @@
-## My *Learnings*
-<table>
-<tr>
-<td width="50%">
-    <p>Tools I use in my workplace.</p>
-    <img align="center" alt="error" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/Centreon.jpg">
-    <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/PowerShell.png">
-    <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/UltraVNC.png">
-    <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/PuTTY.svg.png">
-
-
-
-</div>
-                                                                                      
-
-
-<td width="50%">
-<h3 align="center">Bits of History, Eternal memories that I used</h3>
-<div align="center">
-<p align="center">
-  <img src="Bits_of_History.png" alt="Beyond the code" />
-</p>
-<p>Over the past two decades, I have been a witness and active user of a wide range of technologies that have transformed my personal and professional life</p>
-</div>                                                           
-</table>                                                                                 
-</div>
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- Number of Visitors to my GitHub -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jensygomez.jensygomez" />
 
@@ -73,12 +27,33 @@
   </a>
  </div>
 
-
-
-  <!-- Development tool (IDE)-->
+ <!-- My skills -->
 <br>
-<h1>Development Tool (IDE)</h1>
+<h1>Tools I use in my workplace</h1>
 <p align="center">
+
+  <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/Centreon.jpg">
+  <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/PowerShell.png">
+  <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/UltraVNC.png">
+  <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/PuTTY.svg.png">
+  
+
+  
+</p>
+<br>
+
+
+
+
+
+
+
+
+<!-- Development tool (IDE)-->
+<br>
+<h1>Tools I use in my workplace.</h1>
+<p align="center">
+
 
   <img align="center" alt="Rafa-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
