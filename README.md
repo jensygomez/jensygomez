@@ -12,7 +12,7 @@
 
 <!-- Main and Centralized Banner -->
 <p align="center">
-  <img src="Beyond_the_code.png" alt="Mistake" />
+  <img src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/Beyond_the_code.png" alt="Mistake" />
 </p>
 
 
