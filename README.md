@@ -5,8 +5,16 @@
 <td width="50%">
 <h3 align="center">Bits of History, Eternal memories that I used</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
-<p>
+ <!-- <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a> -->
+
+  
+  <!-- Main and Centralized Banner -->
+<p align="center">
+  <img src="Bits of History.pngg" alt="Beyond the code" />
+</p>
+
+  
+  <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
