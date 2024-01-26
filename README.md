@@ -36,6 +36,8 @@
   <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/PowerShell.png">
   <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/UltraVNC.png">
   <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/Microsoft_365.jpg">
+  <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/0001_RDP.jpg"> 
+  <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/0002_ActiveDirectory.jpg"> 
   <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/Xubuntu.png"> 
   <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/ServiceNow.jpg"> 
   <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/Centreon.jpg">
