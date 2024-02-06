@@ -35,7 +35,7 @@
 
   <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/PuTTY.svg.png">
   
-  <img align="center" alt="error" height="200" width="200" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/0004_Anki.png">
+  <img align="center" alt="error" height="295" width="172" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/0004_Anki.png">
   <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/UltraVNC.png">
   <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/0003_macrium_reflect.jpg">  
   <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/Microsoft_365.jpg">
