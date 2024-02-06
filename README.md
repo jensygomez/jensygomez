@@ -33,18 +33,9 @@
 <h1>Tools I use in my day-to-day</h1>
 <p align="center">
 
-  <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/PuTTY.svg.png">
+  <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/0005_Coursera.png">
   
-  <img align="center" alt="error" height="295" width="172" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/0004_Anki.png">
-  <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/UltraVNC.png">
-  <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/0003_macrium_reflect.jpg">  
-  <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/Microsoft_365.jpg">
-  <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/0001_RDP.jpg"> 
-  <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/0002_ActiveDirectory.jpg"> 
-  <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/Xubuntu.png"> 
-  <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/ServiceNow.jpg"> 
-  <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/Centreon.jpg">
-  <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/PRTG_Monitoring.jpg">
+  <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/0004_Anki.jpg">
   
 
   
