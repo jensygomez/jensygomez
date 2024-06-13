@@ -34,7 +34,7 @@
 <p align="center">
 
   <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/00007_Python.jpg">
-  <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/006_Kali.jpg">
+  <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/000010_Microsoft365jpg">
   <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/0005_Coursera.png">  
   <img align="center" alt="error" height="80" width="80" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/0004_Anki.jpg">
   
